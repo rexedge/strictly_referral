@@ -1,5 +1,3 @@
 # striferral
-# striferral
 ## striferral
-## striferral
-## striferr
+### striferral
