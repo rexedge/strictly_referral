@@ -1,5 +1,5 @@
 <!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark d-none d-lg-block bg-primary" style="z-index: 2000;">
+<nav class="navbar navbar-expand-lg navbar-dark d-lg-block bg-primary" style="z-index: 2000;">
         <div class="container-fluid">
           <!-- Navbar brand -->
           <a class="navbar-brand nav-link" target="_self" href="../">
