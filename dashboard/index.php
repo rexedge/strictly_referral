@@ -21,4 +21,5 @@ include '../inc/dashboard/navbar.php';
     
 </section>
 <hr class="my-5">
+<?php include '../inc/dashboard/settings.php';?>
 <?php include '../inc/dashboard/footer.php';?>
