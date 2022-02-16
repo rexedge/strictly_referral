@@ -20,12 +20,6 @@
                     data-mdb-toggle="modal"
                     data-mdb-target="#settingsModal">Modals</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link"
-                    role="button"
-                    data-mdb-toggle="modal"
-                    data-mdb-target="#tandcModal">Ts and Cs</a>
-              </li>
             </ul>
 
             <ul class="navbar-nav d-flex flex-row">
