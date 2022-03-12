@@ -1,4 +1,5 @@
 <?php 
+session_start();
 $pagetitle = "Dashboard";
 $username = "Ayobami";
 $referralcode = "INE6G7D9LX";

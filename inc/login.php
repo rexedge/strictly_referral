@@ -9,7 +9,7 @@
       <div class="modal-body">
       <div class="row d-flex justify-content-center">
             <div class="col-md-9">
-              <form>
+              <form action="" method="">
 
                 <!-- Email input -->
                 <div class="form-outline mb-4">
@@ -27,6 +27,7 @@
                 <button type="submit" class="btn btn-primary btn mb-4">
                   Sign up
                 </button>
+                <p>Forgot Password? Click <a href="forgot-password.php">Here</a></p>
               </form>
             </div>
           </div>
